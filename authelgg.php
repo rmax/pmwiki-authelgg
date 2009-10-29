@@ -4,7 +4,7 @@
  *
  * @author      Rolando Espinoza La fuente (contacto@rolandoespinoza.info)
  * @copyright   Rolando Espinoza La fuente (contacto@rolandoespinoza.info)
- * @license     $License$
+ * @license     http://www.gnu.org/licenses/gpl.html GPL
  * @version     $Id$
  */
 
